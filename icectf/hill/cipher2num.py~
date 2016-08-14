@@ -1,0 +1,4 @@
+alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789_{}"
+
+def main():
+    print alphabet.length
